@@ -1,0 +1,7 @@
+interface:
+  display_name: "TMIC 问卷助手"
+  short_description: "生成或复核 TMIC 问卷表格，输出上传专用单表"
+  default_prompt: "请根据概念卡生成 TMIC 问卷，或根据我上传的修改版完整问卷调整逻辑并输出上传专用表格；流程到表格文件交付为止。"
+
+policy:
+  allow_implicit_invocation: true
